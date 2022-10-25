@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandeepyadav3000&label=Profile%20views&color=0e75b6&style=flat" alt="mandeepyadav3000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandeepyadav3000" alt="mandeepyadav3000" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prokira" target="blank"><img src="https://img.shields.io/twitter/follow/prokira?logo=twitter&style=for-the-badge" alt="prokira" /></a> </p>
 
 - 🔭 I’m currently working on **Tin-Dog Project**
